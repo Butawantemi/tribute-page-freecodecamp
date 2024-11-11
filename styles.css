@@ -31,3 +31,9 @@ body {
     margin-bottom: 20px;
     text-align: center;
 }
+
+#image {
+    min-width: 100px;
+    height: auto;
+    display: block;
+}
